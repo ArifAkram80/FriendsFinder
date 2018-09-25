@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/nav_joincicle"
+                android:title="Join Circle" />
+            // JOIN CIRCLE
+            <item
+                android:id="@+id/nav_mycicle"
+                android:title="My Circle" />
+
+
+            // MY CIRCLE
+            <item
+                android:id="@+id/nav_joinnedCircle"
+                android:title="Joinned Circle" />
+            //JOINED CIRCLE
+
+            <item
+                android:id="@+id/nav_shareLoc"
+                android:title="Share Location" />
+            //SHARE LOCATION
+
+            //STOP SHARING LOCATION
+            <item
+                android:id="@+id/nav_StopShareLoc"
+                android:title="Stop Sharing Location" />
+            // SEND LOCATION TO WA/MSG
+
+            <item
+                android:id="@+id/nav_shareLocWA"
+                android:title="Share Location WA" />
+
+            <item
+                android:id="@+id/nav_stopshareloc"
+                android:title="Stop Share Location" />
+            //INVITE MEMBERS
+
+            <item
+                android:id="@+id/nav_invitemember"
+                android:title="Invite Memeber" />
+         <item
+              android:id="@+id/nav_signout"
+             android:title="SignOut" />
+
+    </group>
+
+
+</menu>

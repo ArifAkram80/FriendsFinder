@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "489782651222",
+    "firebase_url": "https://friends-finder-7cc0c.firebaseio.com",
+    "project_id": "friends-finder-7cc0c",
+    "storage_bucket": "friends-finder-7cc0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489782651222:android:a943ee0eaaa4c5d2",
+        "android_client_info": {
+          "package_name": "com.example.arif.friendsfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489782651222-g4ftgdlp97qslhkk9u8nqdimso3incva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4eEEJivAJiOnFsnFYy31LhdgcIe0Il0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
